@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="question1/src"/>
+	<classpathentry kind="src" path="question2/src"/>
+	<classpathentry kind="lib" path="question1/question1executable.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Wei-Wei/Downloads/jogamp-all-platforms/jar/gluegen-rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Wei-Wei/Downloads/jogamp-all-platforms/jar/jogl-all.jar"/>
+	<classpathentry kind="output" path="question1/bin"/>
+</classpath>

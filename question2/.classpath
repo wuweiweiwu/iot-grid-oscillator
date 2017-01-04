@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Wei-Wei/Desktop/JAVA3D/j3dcore.jar"/>
+	<classpathentry kind="lib" path="/Users/Wei-Wei/Desktop/JAVA3D/j3dutils.jar"/>
+	<classpathentry kind="lib" path="/Users/Wei-Wei/Desktop/JAVA3D/vecmath.jar"/>
+	<classpathentry kind="lib" path="/Users/Wei-Wei/Desktop/JAVA3D/jogamp-fat/jogamp-fat-test.jar" sourcepath="/Users/Wei-Wei/Desktop/JAVA3D/jogamp-fat/jogamp-fat-test-java-src.zip"/>
+	<classpathentry kind="lib" path="/Users/Wei-Wei/Desktop/JAVA3D/jogamp-fat/jogamp-fat.jar" sourcepath="/Users/Wei-Wei/Desktop/JAVA3D/jogamp-fat/jogamp-fat-java-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
