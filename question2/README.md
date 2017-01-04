@@ -29,7 +29,7 @@ I was doing a lot of coding in the beginning getting the axis to rotate correctl
 
 Here is a screenshot of the 3D user interface in action
 
-![alt text](https://github.com/hungweiwu/own-projects/blob/master/Internet%20of%20things%20(research)/question2/Screen%20Shot%202016-09-05%20at%209.39.38%20PM.png "Screen Shot")
+![alt text](https://github.com/hungweiwu/iot-grid-oscillator/blob/master/question2/Screen%20Shot%202016-09-05%20at%209.39.38%20PM.png "Screen Shot")
 
 ##Execution and testing
 
